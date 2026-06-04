@@ -125,3 +125,4 @@ template <typename T> void bench() {
 int main() {
     bench<ringbuffer>();
     return 0;
+}
